@@ -1,0 +1,1334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"vertical",
+				"vertical-align: 〔property〕"
+			],
+			[
+				"delay",
+				"delayTime"
+			],
+			[
+				"tab",
+				"tabHandle"
+			],
+			[
+				"jQuery",
+				"jQuery插件开发通用框架"
+			],
+			[
+				"getElement",
+				"getElementById"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"低版本",
+				"低版本的firefox"
+			],
+			[
+				"低版本的",
+				"低版本的chrome"
+			],
+			[
+				"IE9",
+				"IE9以下不支持"
+			],
+			[
+				"add",
+				"addHandler"
+			],
+			[
+				"offset",
+				"offsetParent"
+			],
+			[
+				"new",
+				"newElement"
+			],
+			[
+				"page",
+				"pageHeight"
+			],
+			[
+				"get",
+				"getUser"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ins",
+				"instanceof"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"remove",
+				"removeEventListener"
+			],
+			[
+				"document",
+				"documentElement"
+			],
+			[
+				"in",
+				"inArray"
+			],
+			[
+				"RegExp",
+				"RegExp对象的属性"
+			],
+			[
+				"Function",
+				"Function对象的方法"
+			],
+			[
+				"some",
+				"someObj"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"the",
+				"theinput"
+			],
+			[
+				"sum",
+				"sumOnSteroids"
+			],
+			[
+				"start",
+				"startBtn"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"time",
+				"timeDiff"
+			],
+			[
+				"myS",
+				"mySecsl〔variable〕"
+			],
+			[
+				"my",
+				"mySecsl"
+			],
+			[
+				"XML",
+				"XMLHttpRequest〔class〕"
+			],
+			[
+				"submit",
+				"submitData〔function〕"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"int",
+				"intDiff〔argument〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"anchor",
+				"anchorLink"
+			],
+			[
+				"after",
+				"afterLoad"
+			],
+			[
+				"show",
+				"showActiveTooltip是否显示当前页面的tooltip信息，默认为false"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_object〔function〕"
+			],
+			[
+				"mysql_get",
+				"mysql_get_host_info"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"sql",
+				"$sqlHelper〔variable〕"
+			],
+			[
+				"emp_",
+				"emp_pwd"
+			],
+			[
+				"smarty",
+				"smarty.inc.php"
+			],
+			[
+				"complie",
+				"complie_file_path"
+			],
+			[
+				"file",
+				"filemtime〔function〕"
+			],
+			[
+				"tpl_file",
+				"tpl_file_path"
+			],
+			[
+				"preg",
+				"preg_replace〔function〕"
+			],
+			[
+				"_s",
+				"$_SERVER〔variable〕"
+			],
+			[
+				"arr",
+				"$arrTwo〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"g",
+				"getElementById〔function〕"
+			],
+			[
+				"te",
+				"teayeon.mp4"
+			],
+			[
+				"onmouse",
+				"onmousemove	Attr"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"slides",
+				"slidesNavPosition横向导航的位置，默认为bottom，可以设置为top或bottom"
+			],
+			[
+				"font",
+				"font-size: 〔property〕"
+			],
+			[
+				"cur",
+				"curPage〔variable〕"
+			],
+			[
+				"rotate",
+				"rotateX(-90deg"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"webkit-",
+				"-webkit-transition: 〔property〕"
+			],
+			[
+				"webkit",
+				"-webkit-transform: 〔property〕"
+			],
+			[
+				"alert",
+				"alert('没有更多内容了"
+			],
+			[
+				"z",
+				"zhuanjia2.png	w:156 h:269"
+			],
+			[
+				"p",
+				"pmuim-hd.jpg	w:478 h:329"
+			],
+			[
+				"icon",
+				"icon.png	w:680 h:415"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"place",
+				"placeholder.js"
+			],
+			[
+				"bp",
+				"bootstraphtml	bootstraphtml"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"loading",
+				"loading.gif	w:200 h:200"
+			],
+			[
+				"php",
+				"phpinfo〔function〕"
+			],
+			[
+				"perspective",
+				"-webkit-perspective-origin: 〔property〕"
+			],
+			[
+				"transition",
+				"transition-duration: 〔property〕"
+			],
+			[
+				"tran",
+				"transition: 〔property〕"
+			],
+			[
+				"delete",
+				"deleteRow"
+			],
+			[
+				"last",
+				"last-child〔function〕"
+			],
+			[
+				"insert",
+				"insertBefore〔function〕"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"htm",
+				"htmStr〔variable〕"
+			],
+			[
+				"bootstrap",
+				"bootstraphtml	bootstraphtml"
+			],
+			[
+				"boo",
+				"bootstrapcss	bootstrapcss"
+			],
+			[
+				"op",
+				"opacity=0"
+			],
+			[
+				"example",
+				"examplePassword"
+			],
+			[
+				"zi",
+				"zixun.png	w:265 h:48"
+			],
+			[
+				"images",
+				"images/8"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/FED/Public/Books/JavaScript/高级/JavaScript高级程序设计（第3版）/JavaScript高级程序设计（第3版）.md",
+			"settings":
+			{
+				"buffer_size": 25202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeText3常用插件及快捷键总结.md",
+			"settings":
+			{
+				"buffer_size": 7190,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeGit\n----------\n\n  Welcome to SublimeGit\n  =====================\n  \n  SublimeGit is a full-featured, commercial plugin for integrating\n  git into Sublime Text 2 and 3. To read more about it, or purchase\n  a license, go to https://sublimegit.net.\n  \n  \n  Quickstart\n  ----------\n  Make sure to restart Sublime Text after installing SublimeGit.\n  \n  Run the command \"Git: Status\" to open the status view. This\n  is where you'll spend most of the time when interacting with\n  git through SublimeGit. From here you can stage/unstage files,\n  manage stashes, view diffs, and initiate a commit.\n  \n  Other commands are available in the command palette (cmd+shift+p\n  on OS X, ctrl+shift+p on Windows/Linux). They are all prefixed\n  with \"Git:\" and most of them do exactly what it says on the label.\n  \n  \n  Tutorial\n  --------\n  For the full tutorial, go to:\n  \n      https://docs.sublimegit.net/tutorial.html\n  \n  \n  Trouble Getting Started?\n  ------------------------\n  If you are on windows, or don't usually use git from the command\n  line, there might be some things you'll need to set up. Go here\n  for instructions on how to get set up:\n  \n      https://docs.sublimegit.net/quickstart.html\n  \n  \n  Issues, Questions or Bugs?\n  --------------------------\n  Send a mail to support@sublimegit.net, or report it in the issue\n  tracker:\n  \n      https://github.com/SublimeGit/SublimeGit/issues\n",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "{\n    /*\n     * Log level.\n     *\n     * If you are experiencing issues, please set this to DEBUG and\n     * provide the log when reporting an issue.\n     */\n    \"log_level\": \"WARNING\",\n\n    /*\n     * Main encoding used for interacting with Git.\n     */\n    \"encoding\": \"utf-8\",\n\n    /*\n     * Fallback encodings if the main encoding does not work.\n     *\n     * Git is a \"stupid\" content tracker, and as such it doesn't\n     * care about encodings, only streams of bytes. If you have commit\n     * messages or files which are not UTF-8 encoded, it might be necessary\n     * to add one or more special encodings to this setting.\n     *\n     * Be aware that they will be tried in order from front to back, so\n     * there is a small performance penalty if you add an encoding to the\n     * back of the list.\n     */\n    \"fallback_encodings\": [\"cp1252\", \"iso-8859-1\", \"iso-8859-2\", \"cp1250\"],\n\n    /*\n     * Show Inline Status Help\n     *\n     * If set to true, the bottom of the Git: Status view\n     * will contain a cheatsheet showing shortcuts and\n     * possible actions.\n     */\n    \"git_show_status_help\": true,\n\n    /*\n     * Update Status View on Focus\n     *\n     * If set to true, the status view will be updated whenever\n     * it comes back in focus. If you have a slow computer, or\n     * your git status command runs slow for any other reason, you\n     * might want to set this to false.\n     */\n    \"git_update_status_on_focus\": true,\n\n    /*\n     * Show Untracked Files in Status View\n     *\n     * If for some reason you have a lot of untracked files that\n     * you don't want to show up in the status view, you can use\n     * this setting. Also affects Git: Quick Add and Git: Quick Status\n     *\n     * Possible values:\n     *   \"all\": show all untracked files\n     *   \"auto\": obey the status.showUntrackedFiles git config setting\n     *   \"none\": never show untracked files\n     */\n    \"git_status_untracked_files\": \"auto\",\n\n    /*\n     * Open Files Transient\n     *\n     * When a file is opened from the status view, by default\n     * it is marked as transient. It will not get it's own tab\n     * until you start editing it. If you want to always open\n     * the file in its own tab, set this setting to false.\n     *\n     */\n    \"git_status_open_files_transient\": true,\n\n    /*\n     * Disable vintageous mode\n     *\n     * Vintageous is disabled by default, since otherwise\n     * you'd have to enter insert mode to use any of the\n     * SublimeGit keyboard shortcuts. If you know what\n     * you're doing, and you want a different behavior\n     * you can enable vintageous in the status view by\n     * setting this to false.\n     */\n     \"git_status_disable_vintageous\": true,\n\n    /*\n     * Change behavior of the status bar message\n     *\n     * If set to \"fancy\", SublimeGit will show a message like\n     * \"on <branch><dirty> in <repo>\". If set to \"simple\"\n     * the status message will be \"on <branch>\".\n     *\n     * Set to false to completely disable the status bar (might\n     * be necessary for performance reasons on huge projects).\n     */\n    \"git_status_bar\": \"fancy\",\n\n    /*\n     * Verbose commit messages\n     *\n     * If set to true, the diff output for the current commit\n     * will be shown below the commit overview when writing a\n     * commit message.\n     */\n    \"git_commit_verbose\": false,\n\n    /*\n     * Pedantic commit messages\n     *\n     * The style guide for commit messages dictate that:\n     *  - The first line should be max 50 chars\n     *  - The second line should be empty\n     *  - Subsequent lines should be max 72 chars\n     *\n     * If this setting is true, SublimeGit will mark these\n     * errors with an icon in the gutter, and different color\n     * text for the offending lines.\n     */\n    \"git_commit_pedantic\": false,\n\n    /*\n     * Extra merge flags to use when running Git: Merge\n     *\n     * By default, git merge is run like this:\n     *\n     *  git merge --no-progress <branch>\n     *\n     * If you want to add something like \"--no-ff\", set this\n     * value to [\"--no-ff\"]. Then the command run will be\n     *\n     *  git merge --no-progress --no-ff <branch>\n     *\n     * It is possible to add several options, using the default\n     * list syntax like so:\n     *\n     *  \"git_merge_flags\": [\"--no-ff\", \"--strategy=ours\"]\n     *\n     */\n     \"git_merge_flags\": [],\n\n    /*\n     * Warning when opening multiple tabs from a blame view.\n     *\n     * If set to true, you will receive a warning when your\n     * action will open more than 5 tabs. To completely\n     * disable this, set it to false.\n     */\n    \"git_blame_warn_multiple_tabs\": true,\n\n    /*\n     * Executables\n     *\n     * The simplest way to make sure that everything works\n     * is to make sure that all of these are in your\n     * sublime path.\n     *\n     * You can see your current sublime path by opening the\n     * console and entering \"import os; os.getenv('PATH')\".\n     * Be aware that your sublime path might be different\n     * depending on how you started sublime. If you are\n     * unsure where your executables are, try running\n     * \"which {executable}\" in your terminal.\n     *\n     * If you can't put these executables in your path you\n     * can change them to absolute paths here. Be aware\n     * that each item in the list will be quoted on its\n     * own. Examples:\n     *\n     * ['/usr/local/bin/git']\n     * ['/usr/bin/git', 'flow']\n     * ['git', 'flow']\n     */\n    \"git_executables\": {\n        \"git\": [\"git\"],\n        \"git_flow\": [\"git-flow\"],\n        \"legit\": [\"legit\"],\n        \"gitk\": [\"gitk\"]\n    },\n\n    /*\n     * Forced path\n     *\n     * If you are having issues with the path (especially on OS X),\n     * you can use this setting to force a path instead of having\n     * Sublime Text take it from the environment.\n     *\n     * It can be specified either as a string or as an array. If\n     * specified as an array, it will be concat'ed with the appropriate\n     * path separator for the platform. Examples:\n     *\n     * ['/usr/local/bin', '/usr/bin', '/bin']\n     * \"/usr/local/bin:/usr/bin:/bin\"\n     *\n     */\n     \"git_force_path\": null,\n\n    /*\n     * Fancy Help\n     *\n     * If set to true, the Git: Help command will try to\n     * parse the individual help files to give nicer output\n     * in the quickbar.\n     *\n     * There is a performance impact on the first run in each\n     * session. Afterwards, the list is cached, and will be\n     * shown instantly.\n     *\n     * If you are on a slow computer, turning this off might\n     * speed up the first run of the Git: Help command\n     * significantly.\n     */\n    \"git_help_fancy_list\": true,\n\n    /*\n     * Git Html path\n     *\n     * Usually, git will give the path to the included html\n     * help files when called like this:\n     *\n     * git --html-path\n     *\n     * If this doesn't work, you can set the path explicitly\n     * here. Set to null to default to asking git.\n     */\n\n    \"git_help_html_path\": null,\n\n    /*\n     * Extensions\n     *\n     * SublimeGit ships with extensions for:\n     *\n     *  - git-flow (https://github.com/nvie/gitflow)\n     *  - legit (http://www.git-legit.org/)\n     *  - hub (https://github.com/defunkt/hub)\n     *\n     * To enable or disable these extensions set these\n     * settings to true/false. If an extension is disabled,\n     * its commands will not show up in your command\n     * palette.\n     *\n     * Requires a restart of Sublime Text to take effect.\n     */\n    \"git_extensions\": {\n        \"git_flow\": true,\n        \"legit\": true\n    }\n}\n",
+			"file": "SublimeGit.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 7539,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "git:status",
+		"selected_items":
+		[
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tmpl",
+				"Tmpl: Create html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"git",
+				"Git: Add Tag"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 321.0,
+		"history":
+		[
+			"(function(){a=5;alert(window.a);var a=10;alert(a)})()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp/www",
+		"/D/wamp/www/Workspace",
+		"/D/wamp/www/Workspace/Gulp",
+		"/D/wamp/www/Workspace/Gulp/docs",
+		"/D/wamp/www/Workspace/Gulp/docs/Demo",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io/css",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io/js"
+	],
+	"file_history":
+	[
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeTmpl.sublime-package",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/backrefs/readme.md",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/View In Browser.sublime-settings",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io/index.html",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Web_connect.sublime-project",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io/js/main.js",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io/css/style.css",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Package Control.sublime-settings",
+		"/D/wamp/www/Workspace/Gulp/docs/Demo/index.html",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/wamp/www/Workspace/Gulp/docs/jesse121.github.io/js/bootstrap.js",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Base File.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/DocBlockr/LICENSE",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/DocBlockr/README.md",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/bh_core.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/LESS.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Emmet.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Side Bar.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/Alignment/Base File.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Markdown.sublime-settings",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/Sublime text3使用心得.txt",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Administrator/Desktop/SublimeText3常用插件及快捷键总结.md",
+		"/D/wamp/www/Study/HTML5CSS3/HTML5新特性.md",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Markdown (Standard).sublime-settings",
+		"/C/Program Files/Google/Chrome/Application/49.0.2623.87/Extensions/external_extensions.json",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/wamp/www/Study/Book_note/犀利开发 jQuery内核详解与实践/犀利开发 jQuery内核详解与实践.md",
+		"/D/wamp/www/Study/JS_library/jQueryPlugin/jPages/demo.html",
+		"/D/wamp/www/Study/JS_library/jQueryPlugin/jPages/jquery.jPages.js",
+		"/D/wamp/www/Workspace/Single_page/cnblog/header.html",
+		"/D/wamp/www/Workspace/Single_page/cnblog/footer.html",
+		"/D/wamp/www/Workspace/Single_page/cnblog/style.css",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Installed Packages/DeleteBlankLines.sublime-package",
+		"/D/wamp/www/Study/JS_library/jQueryPlugin/jPages/pagination.html",
+		"/D/wamp/www/Study/JS_library/jQueryPlugin/README.md",
+		"/C/Users/Administrator/Desktop/jPages-master/js/jPages.js",
+		"/C/Users/Administrator/Desktop/CNBlogs_BlogBackup_1_201508_201605.xml",
+		"/D/wamp/www/Study/JS_library/JS_plugins/网页特效/返回顶部小火箭/index.html",
+		"/D/wamp/www/Study/JS_library/JS_plugins/网页特效/返回顶部小火箭/css/zzsc.css",
+		"/D/wamp/www/Study/JS_library/JS_plugins/网页特效/返回顶部小火箭/js/zzsc.js",
+		"/D/wamp/www/Workspace/Single_page/cnblog/index.html",
+		"/D/wamp/www/Workspace/Gulp/docs/cnblog/footer.html",
+		"/D/wamp/www/Workspace/Gulp/docs/cnblog/sidebar.html",
+		"/D/wamp/www/Workspace/Gulp/docs/cnblog/style.css",
+		"/D/wamp/www/Workspace/Gulp/docs/cnblog/index.html",
+		"/D/wamp/www/Study/JS_library/jQueryPlugin/jQuery插件开发.md",
+		"/D/wamp/www/Study/jQuery/jQueryPlugin/tabSwitch/jquery.tabSwitch.js",
+		"/D/wamp/www/Study/jQuery/jQueryPlugin/zSlider/demo.html",
+		"/D/wamp/www/Study/jQuery/jQueryPlugin/jQuery插件开发.md",
+		"/D/wamp/www/Study/jQuery/jQueryPlugin/zSlider/jquery.zSlider.js",
+		"/D/wamp/www/Study/jQuery/jQueryPlugin/tabSwitch/demo.html",
+		"/D/wamp/www/Study/JS_library/自己的JS库/隔行换色/stripeTables.js",
+		"/D/wamp/www/Study/Book_note/jQuery高级编程/jQuery高级编程.md",
+		"/C/Users/Administrator/Desktop/TabSwitch.js",
+		"/D/wamp/www/Study/Book_note/犀利开发 jQuery内核详解与实践/code/8/创建jQuery对象方法3.html",
+		"/D/wamp/www/Study/jQuery/jQueryPlugin/jquery.zSlider.js",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeTmpl/templates/js.tmpl",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeTmpl/templates/css.tmpl",
+		"/D/wamp/www/Study/Book_note/犀利开发 jQuery内核详解与实践/code/8/创建jQuery对象方法2.html",
+		"/D/wamp/www/Study/Book_note/犀利开发 jQuery内核详解与实践/code/8/创建jQuery对象方法1.html",
+		"/D/wamp/www/Study/Book_note/犀利开发 jQuery内核详解与实践/code/8/创建jQuery对象方法.html",
+		"/D/wamp/www/Workspace/Gulp/docs/Resume/js/main.js",
+		"/D/wamp/www/Workspace/Gulp/docs/Resume/css/style.less",
+		"/D/wamp/www/Workspace/Gulp/docs/Resume/index.html",
+		"/D/wamp/www/Study/jQuery/jquery-2.x/jquery-2.0.3.js",
+		"/D/wamp/www/Test/canvas.html",
+		"/D/wamp/www/Study/SVG_and_Canvas/canvas.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/JQuery实战.md",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/scripts/jquery.form.js",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter9/form/lab.reset.and.clear.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter8/bootcloset/boot.closet.2.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter8/bootcloset/boot.closet.1.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter8/bootcloset/getTerm.jsp",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter7/photomatic/photomatic.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter7/photomatic/jquery.jqia.photomatic.js",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter7/test.setreadonly.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter6/$.getScript.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter6/$.extend.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter6/$.browser.html",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter5/collapsible.list.take.1.html",
+		"/E/FED/Public/Books/JavaScript/进阶/JavaScript面向对象编程指南/JavaScript面向对象编程指南.md",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter5/index.json",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/chapter8/test.php",
+		"/D/wamp/bin/apache/apache2.2.22/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/wamp/www/test.php",
+		"/D/wamp/www/Study/Book_note/JQuery实战/code/index.html",
+		"/D/wamp/bin/apache/apache2.2.22/conf/httpd.conf",
+		"/D/wamp/www/Jesse/index.html",
+		"/D/wamp/www/Jack/json/china.geojson.json",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Web_connect.sublime-workspace",
+		"/D/wamp/www/Jack/json/service.php",
+		"/D/wamp/www/Test/4.html",
+		"/D/wamp/www/jesse/index.html",
+		"/D/wamp/www/jack/json/service.php",
+		"/D/wamp/www/Test/Laboratory/service.php",
+		"/D/wamp/www/Test/getJSON.html",
+		"/D/wamp/www/jack/index.html",
+		"/D/wamp/www/Test/index.html",
+		"/C/Users/Administrator/Desktop/china.geojson.json",
+		"/D/wamp/www/Test/Laboratory/china.geojson.json",
+		"/D/wamp/www/Test/Laboratory/README.md",
+		"/D/wamp/www/Test/demo.json",
+		"/D/wamp/www/Workspace/Gulp/docs/Resume/demo.json",
+		"/D/Sublime Text/Sublime Text Build 3083/Data/Packages/User/jquery.sublime-snippet",
+		"/D/wamp/www/Test/AJAX.html",
+		"/D/wamp/www/Test/data.php",
+		"/D/wamp/www/Test/2.js",
+		"/D/wamp/www/Worksapce/Gulp/docs/Resume/css/style.less",
+		"/D/wamp/www/Worksapce/Gulp/docs/Resume/index.html",
+		"/D/wamp/www/Study/jQuery/jquery-2.x/note.js",
+		"/D/wamp/www/Study/FED_note/CSS/note.md",
+		"/D/wamp/www/Study/jQuery/jquery-1.x/jquery-1.11.0.js",
+		"/D/wamp/www/Study/HTML5CSS3/CSS3新特性，兼容性，兼容方法总结.md",
+		"/D/wamp/www/Test/aaa.html",
+		"/D/wamp/www/Test/flex.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl",
+			"alt",
+			"assets",
+			"header",
+			"timer",
+			"龙争虎斗",
+			"独行杀手",
+			"剪刀手爱德华",
+			"杀人短片",
+			"'on'",
+			"on",
+			"self",
+			"opts",
+			");`",
+			"src",
+			"png",
+			"demo",
+			"自学前端开发相关教程，并参加网易微专业前端开发工程师培训，对前端开发基础知识有深刻认识，能制作出各种布局类型及具有一定交互性的网页。",
+			"sameAddressControl",
+			"1",
+			"https://github.com/Jesse121/Resume/blob/master/demo.json",
+			"匹配独立单标签",
+			"rsingleTag",
+			"p:first-child{\n            font-size:2rem;\n        }",
+			"项目",
+			".justify",
+			"justify",
+			"h2",
+			"项目",
+			"core_version",
+			"  \n",
+			"IDENT>",
+			"为fixed时，该属性将被忽略不起作用",
+			"green",
+			"清除文件（del）",
+			"}",
+			"height()",
+			"fp-section",
+			"http://www.jq22.com/",
+			"readyState属性，通过它来实现一个文档是否已加载完成",
+			"7.8",
+			"addListener",
+			"mySpace.event",
+			" = ",
+			"= ",
+			"width",
+			"xmlHttp",
+			"XMLHttp",
+			"xmlHttp",
+			"//",
+			"png",
+			").\n",
+			"br",
+			"element：",
+			"n之间的随机数：",
+			"为了实现WebSocket通信需要将Http的Upgrade首部字段值设为websocket",
+			"秘钥",
+			"   |",
+			"IP不是某个协议，而是互联网相关的各类协议族的总称",
+			"meta",
+			"link",
+			"div",
+			"另存压缩后的文件",
+			"drawing",
+			"h1",
+			"xmlHttp",
+			"XMLHttp",
+			"xmlHttp",
+			"XMLHttp",
+			"xmlHttp",
+			"class",
+			"=\"#\"><",
+			"<a href=\"#\">",
+			"@v",
+			"main",
+			"div",
+			"@argument",
+			"处理指定事件程序addEventeListener",
+			"子字符串的开始位置，子字符串最后一个字符后面的位置",
+			"LI",
+			"UL",
+			"A",
+			"B",
+			"P",
+			"BR",
+			"SPAN",
+			"SPAN ",
+			"DIV",
+			"minute",
+			"http://www.mokuge.com/effects/",
+			"native",
+			"images/",
+			"SITE_ROOT",
+			"mySmarty",
+			"我的第一个文件",
+			"tpl",
+			"();\n",
+			"view_in_browser",
+			"side_bar_files_open_with",
+			"setup",
+			"v",
+			"p",
+			"height=\"1077\" border=\"0\" ",
+			"time",
+			"%;",
+			"span",
+			"	\n",
+			"http://byj.prosneo.com/Uploads/",
+			"/Uploads/",
+			"/Public/",
+			"<!",
+			"div",
+			"深圳班25期学员培训图集",
+			"slick-active",
+			"if($(document).height() <= $(window).height()+$(window).scrollTop()){\n        	alert(\"aaa\");\n        }",
+			"num1",
+			"options",
+			"webkit",
+			";\n",
+			"getElementById",
+			"下拉菜单项",
+			"glyphicon",
+			"glyphicon-warning-sign",
+			"glyphicon-remove",
+			"glyphicon",
+			"#",
+			"delete",
+			"id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"myevent",
+			"密钥",
+			"li",
+			"ul",
+			"a",
+			"b",
+			"p",
+			"br",
+			"span",
+			"div",
+			"../images/",
+			"http://www.jq22.com/demo/163/images/",
+			"side_bar_files_open_with",
+			"view_in_browser",
+			"http://m.byjpx.com/Uploads/",
+			"http://byj.prosneo.com/Uploads/",
+			"http://byj.prosneo.com/Public/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/FED/Public/Books/JavaScript/高级/JavaScript高级程序设计（第3版）/JavaScript高级程序设计（第3版）.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeText3常用插件及快捷键总结.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3670,
+								3670
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+							"force_encoding": "UTF-8",
+							"in_converting": true,
+							"origin_encoding": "UTF-8",
+							"revert_to_scratch": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"viewport_position":
+							[
+								0.0,
+								685.0
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 2456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								919
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"default_dir": "D:\\wamp\\www",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "SublimeGit.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5313,
+								5313
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 430.0
+	},
+	"pinned_build_system": "Packages/User/javascript.sublime-build",
+	"project": "Web_connect.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"study/lesstest/index",
+				"Study\\lesstest\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
