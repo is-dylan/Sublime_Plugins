@@ -10,7 +10,7 @@ SublimeText可谓是前端工程师的代码编辑神器，自从用上它以后
 这是今天的重点，在安装插件之前我们需要安装package control组件  
 
 1. 在线安装  
-    按<kbd>ctrl</kbd>+<kbd>`</kbd>调出console面板,粘贴以下代码（或者[SUBLIME TEXT 3](https://packagecontrol.io/installation#st3)面板中的代码）到命令行并回车  
+    按<kbd>ctr+`</kbd>调出console面板,粘贴以下代码（或者[SUBLIME TEXT 3](https://packagecontrol.io/installation#st3)面板中的代码）到命令行并回车  
     ```
     import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
     ```
